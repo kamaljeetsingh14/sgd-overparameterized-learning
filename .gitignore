@@ -1,0 +1,20 @@
+# Ignore CSV files
+*.csv
+
+# Ignore plot images
+*.png
+*.jpg
+*.jpeg
+*.svg
+*.pdf
+
+# Ignore any files in folders named "plots" or "figures"
+plots/
+figures/
+
+# Ignore notebook checkpoints (optional, Jupyter-related)
+.ipynb_checkpoints/
+
+# Ignore system files (optional)
+.DS_Store
+Thumbs.db
