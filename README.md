@@ -11,15 +11,15 @@ Many modern machine learning models are over-parameterized. While the classical 
 
 In this report, we investigate some of these phenomena and examine how over-parameterization enhances the behavior of SGD, both theoretically and empirically.
 
-## 👨‍👩‍👦 Authors
+## Authors
 
-This work was completed as part of a graduate course project in the Department of Mathematics at **The University of Arizona**.
+This work was completed as part of a graduate course project for the course SIE 596 : Machine Learning Optimization
 
+Team Members:
 - **Jeffrey Mei** – [jmei@math.arizona.edu](mailto:jmei@math.arizona.edu)  
 - **Cody Melcher** – [cmelcher@math.arizona.edu](mailto:cmelcher@math.arizona.edu)  
 - **Kamaljeet Singh** – [kamaljeetsingh@arizona.edu](mailto:kamaljeetsingh@arizona.edu)
 
-We gratefully acknowledge the collaborative effort of our team members and the guidance provided during the course.
 
 ## 📁 Contents
 
