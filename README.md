@@ -20,12 +20,3 @@ Team Members:
 - **Cody Melcher** – [cmelcher@math.arizona.edu](mailto:cmelcher@math.arizona.edu)  
 - **Kamaljeet Singh** – [kamaljeetsingh@arizona.edu](mailto:kamaljeetsingh@arizona.edu)
 
-
-## 📁 Contents
-
-- `SGD_overparameterized.pdf` – Final project report  
-- `experiments/` – (optional) Notebooks or scripts for empirical analysis  
-
-
-
-
